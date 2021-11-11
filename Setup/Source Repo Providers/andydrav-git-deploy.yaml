@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:qbsEUBfzR-68k67MPJ1yoA
+url: https://github.com/andydrav/harnesstest
+urlType: REPO
+username: andydrav
